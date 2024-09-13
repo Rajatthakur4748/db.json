@@ -103,7 +103,7 @@
       "tillDateAdd": "2024-09-26T18:30:00.000Z",
       "tillDateSet": "",
       "addonDiscount": false,
-      "description": "This is dis",
+      "description": "This is only applied for the customer buy the min 10000 $ Item ",
       "maxAmount": "dasdas",
       "product": "",
       "id": "nIzdfZm"
@@ -111,7 +111,7 @@
   ],
   "discounts": [
     {
-      "name": "Rajat",
+      "name": "Rajat1",
       "discount": "20",
       "fromDate": "2024-09-09T18:30:00.000Z",
       "tillDateAdd": "2024-09-26T18:30:00.000Z",
@@ -120,7 +120,7 @@
       "description": "This is dis",
       "maxAmount": "dasdas",
       "product": "",
-      "id": "nIzdfZm"
+      "id": "nIzdfZn"
     }
   ]
 }
