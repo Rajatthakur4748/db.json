@@ -97,7 +97,16 @@
   ],
   "discounts": [
     {
-      "name": "Rajesh Mehta"
+      "name": "Rajat",
+      "discount": "20",
+      "fromDate": "2024-09-09T18:30:00.000Z",
+      "tillDateAdd": "2024-09-26T18:30:00.000Z",
+      "tillDateSet": "",
+      "addonDiscount": false,
+      "description": "This is dis",
+      "maxAmount": "5000",
+      "product": "",
+      "id": "nIzdfZm"
     }
   ]
 }
