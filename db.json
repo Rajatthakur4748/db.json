@@ -55,20 +55,6 @@
     {
       "name": "Rebuild20off",
       "discount": "",
-      "discription": "",
-      "maxDiscount": "",
-      "allowedUsers": "",
-      "minimumOrder": "",
-      "applicationMode": "",
-      "promoOrderNo": "",
-      "assignStore": "",
-      "dateFrom": "",
-      "dateTill": "",
-      "id": "7e26"
-    },
-    {
-      "name": "Rebuild20off",
-      "discount": "",
       "description": "This is only applied for the customer buy the min 10000 $ Item ",
       "maxDiscount": "500",
       "allowedUsers": "5",
@@ -79,20 +65,6 @@
       "dateFrom": "2024-09-12T18:30:00.000Z",
       "dateTill": "2024-09-18T18:30:00.000Z",
       "id": "1523"
-    },
-    {
-      "id": "baa0",
-      "name": "jhdsfkhk",
-      "discount": "",
-      "discription": "dsfakjfkjjhkasdf",
-      "maxDiscount": "sdfsd",
-      "allowedUsers": "ffsd",
-      "minimumOrder": "sdf",
-      "applicationMode": "sdfsd",
-      "promoOrderNo": "",
-      "assignStore": "",
-      "dateFrom": "",
-      "dateTill": ""
     }
   ],
   "discountsAppliances": [
@@ -132,9 +104,6 @@
     }
   ],
   "banners": [
-    {
-      "name": "Rajat1",
-      "id":"16523"
-    }
+   
   ]
 }
