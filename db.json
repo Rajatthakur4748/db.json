@@ -124,5 +124,11 @@
     }
   ],
   "sub-admins": [
+    {
+      "email": "john72188@gmail.com",
+      "id": "01",
+      "phone": "707070808080",
+      "registrationDate": "2024-09-30"
+    }
   ]
 }
