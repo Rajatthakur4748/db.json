@@ -105,9 +105,5 @@
     }
   ],
   "banners": [],
-  "integration": [
-    {
-      "id": "5sd5"
-    }
-  ]
+  "integration": []
 }
