@@ -107,33 +107,33 @@
   "banners": [],
   "integration": [
     {
-      "DSM_Name": "SalesDataAPI",
-      "URL": "https://api.salesdata.com/v1",
-      "Auth_Token": "sk_test_4eC39HqLyjWDarjtT1zdp7dc",
+      "dsmName": "SalesDataAPI",
+      "url": "https://api.salesdata.com/v1",
+      "authToken": "sk_test_4eC39HqLyjWDarjtT1zdp7dc",
       "status": true
     },
     {
-      "DSM_Name": "CustomerInsights",
-      "URL": "https://api.customerinsights.com/v2",
-      "Auth_Token": "pk_live_2Qn7l3hKxZb9PqV7t1fgt8yh",
+      "dsmName": "CustomerInsights",
+      "url": "https://api.customerinsights.com/v2",
+      "authToken": "pk_live_2Qn7l3hKxZb9PqV7t1fgt8yh",
       "status": true
     },
     {
-      "DSM_Name": "InventoryManagement",
-      "URL": "https://api.inventorymanagement.com/v1",
-      "Auth_Token": "sk_test_8vK3n4qQzYd6BfrtT1xhv9lm",
+      "dsmName": "InventoryManagement",
+      "url": "https://api.inventorymanagement.com/v1",
+      "authToken": "sk_test_8vK3n4qQzYd6BfrtT1xhv9lm",
       "status": true
     },
     {
-      "DSM_Name": "MarketingAnalytics",
-      "URL": "https://api.marketinganalytics.com/v1",
-      "Auth_Token": "pk_test_1YdK5k7ZgF3q2Jp3v0e3t5z6",
+      "dsmName": "MarketingAnalytics",
+      "url": "https://api.marketinganalytics.com/v1",
+      "authToken": "pk_test_1YdK5k7ZgF3q2Jp3v0e3t5z6",
       "status": true
     },
     {
-      "DSM_Name": "FinancialReports",
-      "URL": "https://api.financialreports.com/v1",
-      "Auth_Token": "sk_live_7tK8n2pQxZy1Rj5qH6fgt1lk",
+      "dsmName": "FinancialReports",
+      "url": "https://api.financialreports.com/v1",
+      "authToken": "sk_live_7tK8n2pQxZy1Rj5qH6fgt1lk",
       "status": true
     }
   ]
