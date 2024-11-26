@@ -49,6 +49,156 @@
       "rating": "N/A",
       "servicable": "9AM to 11PM",
       "status": true
+    },
+    {
+        "id": "3c74",
+        "name": "Karan Kapoor",
+        "address": "Sector 22, Chandigarh, Punjab",
+        "phone": "Retail",
+        "email": "karan.kapoor@gmail.com",
+        "rating": "4.5",
+        "servicable": "10AM to 9PM",
+        "status": true
+    },
+    {
+        "id": "491a",
+        "name": "Sneha Arora",
+        "address": "Model Town, Ludhiana, Punjab",
+        "phone": "Hospitality",
+        "email": "sneha.arora@yahoo.com",
+        "rating": "3.7",
+        "servicable": "7AM to 11PM",
+        "status": false
+    },
+    {
+        "id": "6f21",
+        "name": "Amit Choudhary",
+        "address": "Rajgarh Road, Solan, H.P.",
+        "phone": "Education",
+        "email": "amit.choudhary@edu.com",
+        "rating": "4.8",
+        "servicable": "8AM to 6PM",
+        "status": true
+    },
+    {
+        "id": "e482",
+        "name": "Ritika Singh",
+        "address": "Mall Road, Manali, Dist- Kullu (H.P.)",
+        "phone": "Transportation and Logistics",
+        "email": "ritika.singh@gmail.com",
+        "rating": "4.0",
+        "servicable": "6AM to 8PM",
+        "status": true
+    },
+    {
+        "id": "8b19",
+        "name": "Varun Malhotra",
+        "address": "Shoghi, Shimla, H.P.",
+        "phone": "Real Estate",
+        "email": "varun.malhotra@gmail.com",
+        "rating": "3.5",
+        "servicable": "10AM to 5PM",
+        "status": false
+    },
+    {
+        "id": "5a92",
+        "name": "Puneet Gupta",
+        "address": "Sector 8, Panchkula, Haryana",
+        "phone": "Retail",
+        "email": "puneet.gupta@gmail.com",
+        "rating": "4.3",
+        "servicable": "9AM to 8PM",
+        "status": true
+    },
+    {
+        "id": "f716",
+        "name": "Nisha Dutta",
+        "address": "Civil Lines, Jalandhar, Punjab",
+        "phone": "Beauty and Wellness",
+        "email": "nisha.dutta@hotmail.com",
+        "rating": "4.1",
+        "servicable": "10AM to 10PM",
+        "status": true
+    },
+    {
+        "id": "29d3",
+        "name": "Rahul Sethi",
+        "address": "Chotta Shimla, Shimla, H.P.",
+        "phone": "Technology",
+        "email": "rahul.sethi@outlook.com",
+        "rating": "4.6",
+        "servicable": "8AM to 6PM",
+        "status": true
+    },
+    {
+        "id": "1b8f",
+        "name": "Priya Sharma",
+        "address": "Sector 21, Chandigarh, Punjab",
+        "phone": "Healthcare",
+        "email": "priya.sharma@gmail.com",
+        "rating": "3.9",
+        "servicable": "9AM to 4PM",
+        "status": false
+    },
+    {
+        "id": "a374",
+        "name": "Rohit Rana",
+        "address": "Palampur, Dist- Kangra (H.P.)",
+        "phone": "Education",
+        "email": "rohit.rana@edu.in",
+        "rating": "4.7",
+        "servicable": "6AM to 2PM",
+        "status": true
+    },
+    {
+        "id": "64d2",
+        "name": "Sheetal Verma",
+        "address": "Mall Road, Shimla, H.P.",
+        "phone": "Hospitality",
+        "email": "sheetal.verma@gmail.com",
+        "rating": "3.6",
+        "servicable": "7AM to 10PM",
+        "status": false
+    },
+    {
+        "id": "c932",
+        "name": "Manish Tiwari",
+        "address": "The Ridge, Shimla, H.P.",
+        "phone": "Finance",
+        "email": "manish.tiwari@gmail.com",
+        "rating": "4.2",
+        "servicable": "10AM to 5PM",
+        "status": true
+    },
+    {
+        "id": "b5a7",
+        "name": "Anjali Rathi",
+        "address": "Sector 15, Chandigarh, Punjab",
+        "phone": "Real Estate",
+        "email": "anjali.rathi@yahoo.com",
+        "rating": "3.8",
+        "servicable": "11AM to 7PM",
+        "status": true
+    },
+    {
+        "id": "d824",
+        "name": "Vivek Chauhan",
+        "address": "Lower Bazar, Shimla, H.P.",
+        "phone": "Transportation and Logistics",
+        "email": "vivek.chauhan@logistics.com",
+        "rating": "4.4",
+        "servicable": "6AM to 9PM",
+        "status": true
+    },
+    {
+        "id": "f427",
+        "name": "Neha Jain",
+        "address": "Green Avenue, Amritsar, Punjab",
+        "phone": "Retail",
+        "email": "neha.jain@gmail.com",
+        "rating": "4.5",
+        "servicable": "9AM to 8PM",
+        "status": true
     }
   ],
   "promotions": [
